@@ -269,7 +269,7 @@ footer {
     }
 }
 
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 490px) {
 
     nav {
         position: fixed;
